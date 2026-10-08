@@ -1,0 +1,14 @@
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\bin\Debug\net10.0\associacao-class.exe
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\bin\Debug\net10.0\associacao-class.deps.json
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\bin\Debug\net10.0\associacao-class.runtimeconfig.json
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\bin\Debug\net10.0\associacao-class.dll
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\bin\Debug\net10.0\associacao-class.pdb
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.AssemblyInfoInputs.cache
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.AssemblyInfo.cs
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.csproj.CoreCompileInputs.cache
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.dll
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\refint\associacao-class.dll
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.pdb
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\associacao-class.genruntimeconfig.cache
+C:\Users\48427884885\Desktop\Workspace\POO\associacao-class\obj\Debug\net10.0\ref\associacao-class.dll
